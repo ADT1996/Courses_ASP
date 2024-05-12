@@ -1,0 +1,12 @@
+D:\ADT.Code\dotnet\JWE\bin\Debug\net8.0\JsonWeb.deps.json
+D:\ADT.Code\dotnet\JWE\bin\Debug\net8.0\JsonWeb.dll
+D:\ADT.Code\dotnet\JWE\bin\Debug\net8.0\JsonWeb.pdb
+D:\ADT.Code\dotnet\JWE\obj\Debug\net8.0\JsonWeb.csproj.AssemblyReference.cache
+D:\ADT.Code\dotnet\JWE\obj\Debug\net8.0\JsonWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADT.Code\dotnet\JWE\obj\Debug\net8.0\JsonWeb.AssemblyInfoInputs.cache
+D:\ADT.Code\dotnet\JWE\obj\Debug\net8.0\JsonWeb.AssemblyInfo.cs
+D:\ADT.Code\dotnet\JWE\obj\Debug\net8.0\JsonWeb.csproj.CoreCompileInputs.cache
+D:\ADT.Code\dotnet\JWE\obj\Debug\net8.0\JsonWeb.dll
+D:\ADT.Code\dotnet\JWE\obj\Debug\net8.0\refint\JsonWeb.dll
+D:\ADT.Code\dotnet\JWE\obj\Debug\net8.0\JsonWeb.pdb
+D:\ADT.Code\dotnet\JWE\obj\Debug\net8.0\ref\JsonWeb.dll
